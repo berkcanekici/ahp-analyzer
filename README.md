@@ -1,1 +1,1 @@
-Demo: https://malik-aliyev-94.github.io/AHP-Calculator/
+Demo: will be added
